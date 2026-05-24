@@ -1,1 +1,4 @@
-# re3.py
+normal way
+def numbers(a,b):
+    return a+b
+print(numbers(3,2))
